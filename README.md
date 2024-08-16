@@ -1,34 +1,16 @@
 # Data Scientist
 
-### Education
-**M.S. Data Science** , University of St. Thomas 2023-2025 (in progress)\
-**B.A. Mathematics and Quantitative Economics** , St. Olaf College 2019-2023
-
-### Work History
-**University of St. Thomas Jan 2024 - Present** \
-**Enrollment Data Science Intern Saint Paul, MN** \
-• Scraped data and cleaned data from government websites using Python. \
-  • Created a comprehensive report highlighting actionable insights for enrollment optimization, utilizing statistical analyses. \
-  • Utilized statistical methods to identify patterns and correlations in enrollment data with the Python libraries numpy and pandas. \
-  • Employed Power BI to create easily digestible visualizations to present to shareholders. 
-
-**University of St. Thomas Sep 2023 - Jan 2024** \
-**Assistant Processing Analyst Saint Paul, MN** \
-  • Managed and maintained student records using Salesforce, ensuring data accuracy and integrity. \
-  • Increased efficiency by 40% during the university’s largest application year by optimizing data handling processes. \
-  • Worked within Salesforce to create and format detailed admissions reports filtering from thousands of applications. \
-  • Conducted data validation and quality assurance checks to ensure information compliance and accuracy. 
-
-**St. Olaf College May 2022 - Aug 2022** \
-**Research Assistant Northfield, MN** \
-  • Investigated Kostka-Foulkes polynomials using Python and C++ packages, namely NumPy, to create algebraic algorithms that decreased
-  the required manual labor by 63% resulting in a quicker completion of our research. \
-  • Spearheaded the overhaul of SageMath source code by leading a team of 5 developers;implemented new algorithms that enabled flexible
-  use of visualizing crystal structures formed by polynomials, boosting research efficiency by 20%. \
-  • Adapted the results of the research to make it easier to understand while presenting at the Collaborative Undergraduate Research
-  symposium to 300 people. 
+### Introduction
 
 
 ### Projects
+Welcome to my Data Science Portfolio! I am currently pursuing a Master's in Data Science at the University of St. Thomas, MN, where I am honing my skills in data analysis, machine learning, and statistical modeling. With a background in psychology, I bring a unique perspective to data science, combining an understanding of human behavior with technical expertise.
+
+In this portfolio, you'll find a collection of my work that showcases my ability to turn complex data into actionable insights. Each project reflects my passion for problem-solving, my commitment to continuous learning, and my desire to use data to make informed decisions that drive positive outcomes.
+
+From predictive modeling to data visualization, my portfolio highlights my proficiency in a range of data science tools and techniques. Whether it's exploring healthcare data, optimizing business processes, or uncovering trends in social behavior, I am dedicated to leveraging data to address real-world challenges.
+
+Thank you for taking the time to explore my work. I hope it gives you a clear sense of my capabilities and my enthusiasm for data science.
+
 
 **Airbnb Location Classification**
