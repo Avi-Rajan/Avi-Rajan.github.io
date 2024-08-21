@@ -11,4 +11,4 @@ Thank you for taking the time to explore my work. I hope it gives you a clear se
 
 ### Projects
 
-**Airbnb Location Classification**
+[**Airbnb Location Classification**](https://github.com/Avi-Rajan/Airbnb-Project)
