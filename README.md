@@ -7,7 +7,7 @@ Outside of work, I’m pursuing a Master’s in Data Science at the University o
 
 This portfolio is a collection of projects and experiences that reflect both my technical abilities and my curiosity to solve real world problems with data. Whether it’s automating a streaming pipeline or optimizing a Spark job, I approach each challenge with a mindset geared toward impact, reliability, and learning.
 
-Thank you for stopping by—I hope this gives you a clear picture of what I’ve done and where I’m heading.
+Thank you for stopping by I hope this gives you a clear picture of what I’ve done and where I’m heading.
 ### Projects
 
 [**Airbnb Location Classification**](https://github.com/Avi-Rajan/Airbnb-Project)
