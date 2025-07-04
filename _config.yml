@@ -1,2 +1,6 @@
-title: Avi Rajan
-theme: jekyll-theme-slate
+title: "Avi Rajan"
+description: "Data Engineer | M.S. in Data Science | Building modern data pipelines with Databricks, Spark, and Azure"
+theme: jekyll-theme-minimal
+logo: /assets/img/profile.png  # optional - place your image at this path
+show_downloads: false
+google_analytics: # your Google Analytics ID if you have one
